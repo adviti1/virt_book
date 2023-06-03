@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/home_page 1.unity
+- path: Assets/Scenes/tajMahal.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

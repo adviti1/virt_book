@@ -391,8 +391,6 @@
 "Assets/LeanTween/Framework/LTSeq.cs"
 "Assets/scripts/AppQuit.cs"
 "Assets/scripts/AppQuit1.cs"
-"Assets/scripts/ChaseMouse.cs"
-"Assets/scripts/ChaseMouse1.cs"
 "Assets/scripts/TextTyper.cs"
 "Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserManager.cs"
 "Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserWindow.cs"
